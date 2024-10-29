@@ -1,7 +1,6 @@
-<img align="right" width="250px" style="margin-top:-20px" src="![1730211786628-removebg](https://github.com/user-attachments/assets/640598bb-7bf4-4b88-ab2a-985af919f978)
+<img align="right" width="250px" style="margin-top:-20px" src="![1730211786628](https://github.com/user-attachments/assets/38347919-8938-4073-bb71-5d0a74f21715)
 ">
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.ibb.co/C5rtHLd/jeni01.png">
 </br>
 </br>
 </br>
@@ -32,7 +31,6 @@ Tenho 19 anos, moro em Franca/SP e sou fã de programação e futebol! Sou um ex
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-@@ -42,34 +48,38 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  title = "DOCKER"/></code>
