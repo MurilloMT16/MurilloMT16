@@ -11,13 +11,10 @@
 <div dsplay="inline-block">
 
  <h1 align="left">Murilo Galdino</h1>
- <a href="https://www.instagram.com/murilogaldinoo/">
-@@ -15,6 +20,7 @@
+  <a href="https://instagram.com/murilogaldinoo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
 </div>
 
-
-@@ -26,14 +32,14 @@
 
 ## Hello, Devs!!
 
